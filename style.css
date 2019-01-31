@@ -15,13 +15,13 @@ margin: 0;
 #profil_image {
   width: 370px;
   background-color: rgba(40,40,40,0.1);
-  border-radius: 185px;
+  border-radius: 50%;
 }
 
-#profil_image :hover{
+#profil_image img :hover {
   width: 370px;
   background-color: rgba(40,40,40,0.2);
-  border-radius: 185px;
+  border-radius: 50%;
 }
 
 .headers {
