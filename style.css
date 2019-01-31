@@ -16,6 +16,7 @@ margin: 0;
   width: 370px;
   background-color: rgba(40,40,40,0.1);
   border-radius: 50%;
+  margin: 0;
 }
 
 #profil_image img :hover {
